@@ -134,7 +134,7 @@ img {
 
 .images {
     display: flex;
-    width: 200px;
+    width: 500px;
     flex-direction: column;
     margin: 5px;
     justify-content: center;
