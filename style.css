@@ -126,11 +126,6 @@ p {
     text-align: center;
 }
 
-img {
-    width: 300px;
-    margin: 0px;
-
-}
 
 .images {
     display: flex;
