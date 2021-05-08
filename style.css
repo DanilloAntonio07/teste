@@ -134,8 +134,8 @@ img {
 
 .images {
     display: flex;
-    width: 800px;
-    flex-direction: row;
+    width: 200px;
+    flex-direction: column;
     margin: px;
     justify-content: center;
     align-items: center;
