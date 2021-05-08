@@ -121,8 +121,8 @@ p {
     font-family: montserrat;
     display: flex;
     justify-content: center;
-    margin-left: 300px; 
-    margin-right: 300px;
+    margin-left: 10px; 
+    margin-right: 10px;
     text-align: center;
 }
 
@@ -136,7 +136,7 @@ img {
     display: flex;
     width: 200px;
     flex-direction: column;
-    margin: px;
+    margin: 5px;
     justify-content: center;
     align-items: center;
 }
