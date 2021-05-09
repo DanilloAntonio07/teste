@@ -15,7 +15,7 @@ a {
 
 ul {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     list-style: none;
 }
 
